@@ -1,0 +1,22 @@
+{
+  "name": "roadmap-manager",
+  "version": "1.0.0",
+  "description": "A roadmap management tool that allows you to view your data with different views",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobJMackenzie/Roadmap-manager.git"
+  },
+  "author": "Rob Mackenzie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobJMackenzie/Roadmap-manager/issues"
+  },
+  "homepage": "https://github.com/RobJMackenzie/Roadmap-manager#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
